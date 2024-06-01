@@ -1,6 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm I'm Abraham</h1>
 <h3 align="center">A passionate full-stack developer and network engineer. My goal? Crafting inventive solutions that boost productivity and enhance user experience.</h3>
+
+-🔭 Currently, I'm fully immersed in the development of a robust project management system. It's a dynamic platform that adeptly oversees projects,tasks and efficiently distributes resources, ensuring seamless operation.  I've also made significant contributions to scalable applications like CRM and IPPBX. For CRM, I led the creation of a comprehensive system serving over 30,000 clients, complete with bill management and call center integration. In the IPPBX project, I designed user-friendly interfaces tailored for large-scale operations and developed a dialer web app and a Chrome extension to enhance functionality.
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamdereje&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamdereje" /> </p>
 
