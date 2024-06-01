@@ -9,13 +9,6 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" />
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamdereje&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamdereje" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahamdereje" alt="abrahamdereje" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [abraham-dereje.netlify.app](abraham-dereje.netlify.app)
 
 - 👨‍💻 All of my projects are available at [abraham-dereje.netlify.app](abraham-dereje.netlify.app)
@@ -32,9 +25,8 @@
 
 
 
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamdereje&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamdereje" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahamdereje" alt="abrahamdereje" /></a> </p>
 
 
 
