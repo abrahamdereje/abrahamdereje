@@ -39,7 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahamdereje&show_icons=true&locale=en&layout=compact" alt="abrahamdereje" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrahamdereje&show_icons=true&locale=en" alt="abrahamdereje" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrahamdereje&show_icons=true&locale=en"&theme=tokyonight alt="abrahamdereje" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamdereje&" alt="abrahamdereje" /></p>
 
