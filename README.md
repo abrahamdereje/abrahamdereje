@@ -30,18 +30,18 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamdereje&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamdereje" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahamdereje&theme=onedark" alt="abrahamdereje" />&nbsp;&nbsp;&nbsp;</a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahamdereje&theme=onedark" alt="abrahamdereje" /></a> </p>
 
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-<img src="https://nuxt.com/assets/design-kit/logo-green-white.png" alt="nuxtjs" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
+<img src="https://nuxt.com/assets/design-kit/logo-green-white.png" alt="nuxtjs" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
