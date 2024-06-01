@@ -38,14 +38,14 @@
 <p align="left">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a> <span width=20><span>
+</a> <pre>     </pre>
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img src="https://nuxt.com/assets/design-kit/logo-green-white.png" alt="nuxtjs" width="40" height="40"/>
 </a> <span width=20><span>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://laravel.com/" target="_blank" rel="noreferrer" width="100">
+<a href="https://laravel.com/" target="_blank" rel="noreferrer" >
 <img src="https://e7.pngegg.com/pngimages/764/304/png-clipart-laravel-black-logo-tech-companies-thumbnail.png" alt="laravel" width="40" height="40"/>
 </a>
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
