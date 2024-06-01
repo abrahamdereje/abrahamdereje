@@ -1,11 +1,9 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" width="949" height="201">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" width="949" height="361">
 
 <h1 align="center">Hello 👋, I'm I'm Abraham</h1>
 <h3 align="center">Passionate full-stack developer and network engineer crafting inventive solutions for enhanced productivity and user experience.</h3>
 
--🔭 Currently, I'm fully immersed in the development of a robust project management system. It's a dynamic platform that adeptly oversees projects,tasks and efficiently distributes resources, ensuring seamless operation.  I've also made significant contributions to scalable applications like CRM and IPPBX. For CRM, I led the creation of a comprehensive system serving over 30,000 clients, complete with bill management and call center integration. In the IPPBX project, I designed user-friendly interfaces tailored for large-scale operations and developed a dialer web app and a Chrome extension to enhance functionality.
-
-
+-🔭 Currently, I'm deeply engaged in developing a dynamic project management system, overseeing tasks, and optimizing resource distribution. Spearheaded the development of a CRM system serving 30,000+ clients with bill management and call center integration. Designed user-friendly interfaces for IPPBX and contributed to enhancements like a dialer web app and Chrome extension.
 
 
 
