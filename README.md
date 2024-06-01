@@ -9,13 +9,12 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" />
-- 👨‍💻 All of my projects are available at [abraham-dereje.netlify.app](abraham-dereje.netlify.app)
+👨‍💻 All of my projects are available at [abraham-dereje.netlify.app]
+🌱 Continuously evolving, I'm currently delving into advanced system design, quantum computing, machine learning, and data science to maintain my edge in technology.
+👯 I'm eagerly seeking collaboration on ambitious projects, particularly those involving full-stack development, system optimization, and cutting-edge software solutions.
+💬 Feel free to connect with me about **Vue,Nuxt,Laravel,PHP,full-stack development**
 
-- 👨‍💻 All of my projects are available at [abraham-dereje.netlify.app](abraham-dereje.netlify.app)
-
-- 💬 Feel free to connect with me about **Vue,Nuxt,Laravel,PHP,full-stack development**
-
-- 📫 You can reach me at **abraham.dereje1997@gmail.com**
+📫 You can reach me at **abraham.dereje1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
