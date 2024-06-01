@@ -43,7 +43,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=abrahamdereje&show_icons=true&locale=en&theme=tokyonight" alt="abrahamdereje"   height="210"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamdereje&show_icons=true&theme=tokyonight" alt="abrahamdereje" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamdereje&show_icons=true&theme=tokyonight" alt="abrahamdereje"  height="210" width="750" /></td>
   </tr>
 </table>
 
