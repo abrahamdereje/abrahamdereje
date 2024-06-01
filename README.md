@@ -36,12 +36,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a> <span style="width:20px;"><span>
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img src="https://nuxt.com/assets/design-kit/logo-green-white.png" alt="nuxtjs" width="40" height="40"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a> <span style="width:20px;"><span>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
