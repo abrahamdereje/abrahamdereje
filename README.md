@@ -1,6 +1,6 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" width="949" height="200">
 
-<h1 align="center">Hi 👋, I'm a software engineer.</h1>
+<h1 align="center">Hi 👋, I'm a Software Engineer.</h1>
 <h3 align="center">Passionate full-stack developer and network engineer crafting inventive solutions for enhanced productivity and user experience.</h3>
 
 -🔭 Currently, I'm deeply engaged in developing a dynamic project management system, overseeing tasks, and optimizing resource distribution. Spearheaded the development of a CRM system serving 30,000+ clients with bill management and call center integration. Designed user-friendly interfaces for IPPBX and contributed to enhancements like a dialer web app and Chrome extension.
@@ -30,7 +30,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamdereje&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamdereje" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahamdereje" alt="abrahamdereje" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahamdereje" alt="abrahamdereje" />&nbsp;&nbsp;&nbsp;</a> </p>
 
 
 
