@@ -30,7 +30,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamdereje&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamdereje" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=abrahamdereje](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)" alt="abrahamdereje" />&nbsp;&nbsp;&nbsp;</a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahamdereje&theme=onedark" alt="abrahamdereje" />&nbsp;&nbsp;&nbsp;</a> </p>
 
 
 
