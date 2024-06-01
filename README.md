@@ -35,7 +35,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div  style="display:flex">
+<div  style="display: flex; flex-wrap: wrap;">
 <div style="display: inline-block; border: 1px solid white; padding: 5px; margin: 5px;">
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
