@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ab.</h1>
 <h3 align="center">Passionate full-stack developer and network engineer crafting inventive solutions for enhanced productivity and user experience.</h3>
 
--🔭 Currently, I'm deeply engaged in developing a dynamic project management system, overseeing tasks, and optimizing resource distribution. Spearheaded the development of a CRM system serving 30,000+ clients with bill management and call center integration. Designed user-friendly interfaces for IPPBX and contributed to enhancements like a dialer web app and Chrome extension.
+-🔭 Currently, I'm deeply engaged in developing a dynamic project management system, overseeing tasks, and optimizing resource distribution. Spearheaded the development of a CRM system to manage thousands of clients with bill management and call center integration. Designed user-friendly interfaces for IPPBX and contributed to enhancements like a dialer web app and Chrome extension.
 
 
 
