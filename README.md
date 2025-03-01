@@ -7,8 +7,6 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" />
-
 -🌱 Continuously evolving, I'm currently delving into advanced system design, quantum computing, machine learning, and data science to maintain my edge in technology.
 
 -👯 I'm eagerly seeking collaboration on ambitious projects, particularly those involving full-stack development, system optimization, and cutting-edge software solutions.
